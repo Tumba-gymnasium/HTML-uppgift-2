@@ -1,0 +1,56 @@
+<html>
+    
+<header>
+    <img src="https://static.vecteezy.com/ti/gratis-foton/p1/2314477-natur-host-bakgrund-med-bjorktrad-gratis-fotona.jpg" alt="Placeholder Logo">
+    <h1>Björkträd</h1>
+    <nav>
+      <ul>
+        <li><a href="/Ombjorktrad.html">Om björkträd</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section>
+    <h2>Kontakt</h2>
+    <ul>
+      <li><a href="#">redom.sikder@skola.botkyrka.se</a></li>
+    </ul>
+  </section>
+
+
+</html>
+
+
+<html>
+  <main>
+    <section>
+    <article>
+      <h2>Björkträd</h2>
+      <p>Björkträd, eller Betula, är en släkt av lövträd som är välkända för sina karakteristiska vita, släta barkar och fjädrande, gröna löv. De är vanliga i både boreala och tempererade klimat och kan hittas i många delar av världen, särskilt i Europa, Asien och Nordamerika.</p>
+     </article>
+
+    <article>
+        <p>Björkar är snabbväxande träd som ofta växer i grupper. De trivs i fuktiga miljöer och kan anpassa sig till olika jordtyper. Trädet blommar på våren, och dess hängande kattfötter (blommor) är en tidig källa till pollen för insekter.</p>
+    </article>
+    </section>
+    </main>
+
+      
+<aside>
+  <ul>
+    <li><a href="https://www.granngarden.se/tradgard/vaxter/prydnadstrad/bjork">Köp björkträd</a></li>
+  </ul>
+</aside>
+
+
+  <footer>
+    <p>&copy; 2024 Min Blogg. Alla rättigheter förbehållna.</p>
+  </footer>
+
+  <div class="product-item">
+    <img src="https://m.media-amazon.com/images/I/71x4Nq+qqZL._AC_UF1000,1000_QL80_.jpg" alt="Laptop XYZ">
+</div>
+  
+</main>
+
+</html>
